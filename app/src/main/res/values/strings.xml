@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Service and BroadcastReceiver example</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="bind">Bind</string>
+    <string name="unbind">Unbind</string>
+    <string name="wifi_off">WiFi is OFF</string>
+    <string name="wifi_on">WiFi is ON</string>
+</resources>
